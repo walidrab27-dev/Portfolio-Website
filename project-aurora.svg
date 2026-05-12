@@ -1,0 +1,27 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#060912"/>
+  <rect x="76" y="82" width="1048" height="586" rx="30" fill="#0B1020" stroke="white" stroke-opacity=".14"/>
+  <rect x="116" y="126" width="968" height="72" rx="18" fill="white" fill-opacity=".055"/>
+  <rect x="116" y="230" width="288" height="170" rx="20" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".26"/>
+  <rect x="456" y="230" width="288" height="170" rx="20" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".24"/>
+  <rect x="796" y="230" width="288" height="170" rx="20" fill="#8B5CF6" fill-opacity=".12" stroke="#8B5CF6" stroke-opacity=".26"/>
+  <rect x="116" y="438" width="628" height="188" rx="20" fill="white" fill-opacity=".045" stroke="white" stroke-opacity=".12"/>
+  <rect x="796" y="438" width="288" height="188" rx="20" fill="white" fill-opacity=".045" stroke="white" stroke-opacity=".12"/>
+  <path d="M166 167H366M844 167H1028" stroke="#F8FBFF" stroke-opacity=".76" stroke-width="14" stroke-linecap="round"/>
+  <path d="M158 345C205 288 270 317 306 272C333 238 365 270 376 304" stroke="#22D3EE" stroke-width="12" stroke-linecap="round"/>
+  <path d="M498 346H688M498 302H652M498 274H600" stroke="#A9B4C7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M854 350C880 284 935 272 973 314C995 338 1030 308 1040 269" stroke="#8B5CF6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M162 576L248 494L332 540L430 470L548 562L688 486" stroke="#F59E0B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="910" cy="532" r="48" fill="#22D3EE" opacity=".2"/>
+  <circle cx="974" cy="532" r="48" fill="#8B5CF6" opacity=".2"/>
+  <circle cx="942" cy="582" r="48" fill="#34D399" opacity=".18"/>
+  <defs>
+    <filter id="glow" x="0" y="0" width="1200" height="750" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <g filter="url(#glow)" opacity=".65">
+    <circle cx="1040" cy="120" r="130" fill="#22D3EE" opacity=".16"/>
+    <circle cx="170" cy="656" r="160" fill="#8B5CF6" opacity=".2"/>
+  </g>
+</svg>
